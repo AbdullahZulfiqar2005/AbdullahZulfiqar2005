@@ -16,10 +16,9 @@
 - 📱 Mobile and Web apps
 - 🧠 Data analysis & backend systems
 - 🛠️ Reverse engineering & APK mods
-- 🐧 Custom Linux distros with security tooling
+- 🐧 Linux distros with security tooling
 - 🧰 Freelance projects & UI/UX revamps
-
-🚀 My current mission: **Be job-ready by September 2025.**  
+  
 🧪 Learning like a mad scientist to bridge the gap between uni and industry.
 
 ---
