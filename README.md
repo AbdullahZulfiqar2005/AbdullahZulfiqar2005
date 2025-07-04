@@ -1,84 +1,53 @@
-<!-- Banner Image (optional) -->
-<!-- ![Banner](https://your-image-url.com/banner.png) -->
-
-<h1 align="center">Hey there, I'm Abdullah 👋</h1>
-<p align="center">🚀 Computer Science Student | 🔧 DevOps & Cloud Learner | 🐧 Linux Enthusiast | 🧠 Always Building</p>
+<h1 align="center">Hi 👋, I'm Abdullah Zulfiqar</h1>
+<h3 align="center">Computer Science Student | Linux & Systems Enthusiast | GSoC 2026 Aspirant</h3>
 
 ---
 
-## 🔍 About Me
-
-🎓 I'm currently pursuing a **BS in Computer Science** from **PUCIT, Lahore**, and just completed my 4th semester.
-
-💻 I’m deeply passionate about **system programming, Linux, DevOps**, and building **product-level software** that solves real-world problems.
-
-🔧 I tinker with:
-- 📱 Mobile and Web apps
-- 🧠 Data analysis & backend systems
-- 🛠️ Reverse engineering & APK mods
-- 🐧 Linux distros with security tooling
-- 🧰 Freelance projects & UI/UX revamps
-  
-🧪 Learning like a mad scientist to bridge the gap between uni and industry.
+- 🎓 I’m a CS undergrad at **PUCIT**, Lahore  
+- 🧠 Currently diving into **System Programming**, **Operating Systems**, and **Cloud/DevOps**  
+- 💡 I’m learning **Python**, **JavaScript (Node.js)**, and **C++**
+- 🐧 Building a **custom Linux distro** and upgrading my **Bus Tracking System** to FYP level
+- 🚀 Preparing daily for **Google Summer of Code 2026**
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-### ⚙️ Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-### 🧰 Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Hyprland](https://img.shields.io/badge/Hyprland-303030?style=flat&logo=arch-linux&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- ☁️ **DevOps & Cloud** (AWS, Docker, CI/CD, GitHub Actions)
-- 🧱 **Linux From Scratch** & custom distros (security-focused live OS)
-- 🧠 **Advanced DSA, OOP, DBMS** revision
-- 🧪 Data Visualization with **Python, Pandas, Matplotlib**
-- 🛠 Smali & APK Reverse Engineering for UI Modding
-
----
-
-## 🔥 Projects In Progress
-
-- 🚍 **Bus Tracking System** (Flutter + Firebase + React/Leaflet)
-- 🐧 **Tails-inspired Custom Linux Distro** with security features (Tor, Proxychains, VPN)
-- 📈 **Data Analysis Dashboard** (Django backend with custom APIs)
-- 🛠 Freelance Android app UI revamp project
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="top-langs"/>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-- 📫 Email: abdullahzulfiqar580@gmail.com  
-- 💼 LinkedIn: [Abdullah Zulfiqar](www.linkedin.com/in/abdullah-zulfiqar-7a4240287)  
-- 🐧 Personal blog (coming soon)
+### 📌 Projects
+- 🚍 [Bus Tracking System](https://github.com/AbdullahZulfiqar2005/bus-tracking-app) – Real-time tracking using Flutter + Firebase
+- 🧾 [DV/DA Web App](#) – Complete CRUD and analytics system
+- 🐧 [Custom Linux Distro](#) – Based on Ubuntu + Hyprland + Privacy Tools
 
 ---
 
-> _“The best way to predict the future is to invent it.” — Alan Kay_
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahZulfiqar2005&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahZulfiqar2005&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: `abdullahzulfiqar2005@gmail.com`
+- 🌐 LinkedIn: [linkedin.com/in/abdullahzulfiqar2005](https://linkedin.com/in/abdullahzulfiqar2005)
+- 🌟 GitHub: [@AbdullahZulfiqar2005](https://github.com/AbdullahZulfiqar2005)
+
+---
+
+<p align="center">
+  ⚡ “Consistency is the key to mastery.” Let’s go GSoC 2026!
+</p>
