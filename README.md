@@ -1,53 +1,77 @@
-<h1 align="center">Hi 👋, I'm Abdullah Zulfiqar</h1>
-<h3 align="center">Computer Science Student | Linux & Systems Enthusiast | GSoC 2026 Aspirant</h3>
-
----
-
-- 🎓 I’m a CS undergrad at **PUCIT**, Lahore  
-- 🧠 Currently diving into **System Programming**, **Operating Systems**, and **Cloud/DevOps**  
-- 💡 I’m learning **Python**, **JavaScript (Node.js)**, and **C++**
-- 🐧 Building a **custom Linux distro** and upgrading my **Bus Tracking System** to FYP level
-- 🚀 Preparing daily for **Google Summer of Code 2026**
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<h1 align="center">Hi, I'm Abdullah Zulfiqar 👋</h1>
+<p align="center">
+  🎓 BSCS Student @ PUCIT | 💻 Open Source Explorer | 🐧 Linux Enthusiast | 🔧 Systems & Backend Developer
 </p>
 
----
-
-### 📌 Projects
-- 🚍 [Bus Tracking System](https://github.com/AbdullahZulfiqar2005/bus-tracking-app) – Real-time tracking using Flutter + Firebase
-- 🧾 [DV/DA Web App](#) – Complete CRUD and analytics system
-- 🐧 [Custom Linux Distro](#) – Based on Ubuntu + Hyprland + Privacy Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,nodejs,react,bash,linux,mysql,flutter,firebase,git,github" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 📌 About Me
+
+- 🎓 Computer Science undergraduate at PUCIT, Lahore
+- 💻 Passionate about **Linux systems**, **backend development**, and **DevOps**
+- 🛠️ Currently working on:  
+  → A **custom Linux distro** (Tails-inspired, Hyprland-based)  
+  → A **bus tracking system** (Flutter + Firebase + React)  
+  → A **data visualization platform** (freelance project)
+- 🌱 Always learning: OS internals, cloud tools, containers, APIs, security
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Hyprland](https://img.shields.io/badge/Hyprland-black?style=flat&logo=archlinux&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| 💡 Project | 🔧 Stack | 📄 Description |
+|-----------|----------|----------------|
+| **Custom Linux Distro** | Ubuntu + Hyprland + CUBIC | Secure live OS inspired by Tails; system programming focus |
+| **Bus Tracking System** | Flutter, Firebase, React, Leaflet.js | Real-time location tracking with admin dashboard |
+| **DV/DA Web App** | Node.js, Express, Firebase | Freelance project for data collection, dashboard, and analytics |
+| **NADRA DBMS Clone** | PHP, MySQL | University DBMS project simulating national ID record system |
+
+---
+
+## 🎯 What I'm Learning Now
+
+- 📚 **Linux From Scratch** – for deep OS-level understanding
+- ☁️ **DevOps Fundamentals** – Docker, CI/CD, pipelines
+- 🔐 **System Security** – VPNs, Proxychains, Tails OS architecture
+- 🧱 **Cloud Tools** – Linux networking, deployment pipelines
+- 🧠 **Advanced Java + OOP** – JavaFX, multithreading, JDBC
+
+---
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Gmail-abdullahzulfiqar2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahzulfiqar2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdullahZulfiqar2005-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbdullahZulfiqar2005)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahZulfiqar2005&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahZulfiqar2005&theme=radical" width="48%" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: `abdullahzulfiqar2005@gmail.com`
-- 🌐 LinkedIn: [linkedin.com/in/abdullahzulfiqar2005](https://linkedin.com/in/abdullahzulfiqar2005)
-- 🌟 GitHub: [@AbdullahZulfiqar2005](https://github.com/AbdullahZulfiqar2005)
-
----
-
-<p align="center">
-  ⚡ “Consistency is the key to mastery.” Let’s go GSoC 2026!
+  "Work in silence. Let your projects speak."
 </p>
