@@ -1,77 +1,62 @@
-<h1 align="center">Hi, I'm Abdullah Zulfiqar 👋</h1>
-<p align="center">
-  🎓 BSCS Student @ PUCIT | 💻 Open Source Explorer | 🐧 Linux Enthusiast | 🔧 Systems & Backend Developer
-</p>
+# Hi there, I'm Abdullah Zulfiqar! 👋
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,nodejs,react,bash,linux,mysql,flutter,firebase,git,github" />
-</div>
+I am a Computer Science student at **PUCIT** and a passionate **Software Engineer** specializing in **Backend Development** and **Security Research**. I have professional experience in freelance software development and open-source contributions.
 
----
-
-## 📌 About Me
-
-- 🎓 Computer Science undergraduate at PUCIT, Lahore
-- 💻 Passionate about **Linux systems**, **backend development**, and **DevOps**
-- 🛠️ Currently working on:  
-  → A **custom Linux distro** (Tails-inspired, Hyprland-based)  
-  → A **bus tracking system** (Flutter + Firebase + React)  
-  → A **data visualization platform** (freelance project)
-- 🌱 Always learning: OS internals, cloud tools, containers, APIs, security
+- 🔭 **I’m currently working on:** Optimizing backend performance and contributing to security tools like **OWASP ZAP**.
+- 🐧 **Daily Driver:** Arch Linux with **Hyprland** (Customized Dotfiles).
+- 💼 **Experience:** Freelance Developer (Reverse Engineering & Fintech Solutions).
+- 🌱 **Learning:** Advanced Data Structures, System Design, and CERN ROOT Framework.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Hyprland](https://img.shields.io/badge/Hyprland-black?style=flat&logo=archlinux&logoColor=white)
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-| 💡 Project | 🔧 Stack | 📄 Description |
-|-----------|----------|----------------|
-| **Custom Linux Distro** | Ubuntu + Hyprland + CUBIC | Secure live OS inspired by Tails; system programming focus |
-| **Bus Tracking System** | Flutter, Firebase, React, Leaflet.js | Real-time location tracking with admin dashboard |
-| **DV/DA Web App** | Node.js, Express, Firebase | Freelance project for data collection, dashboard, and analytics |
-| **NADRA DBMS Clone** | PHP, MySQL | University DBMS project simulating national ID record system |
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🎯 What I'm Learning Now
+## 🚀 Professional Experience & Contributions
 
-- 📚 **Linux From Scratch** – for deep OS-level understanding
-- ☁️ **DevOps Fundamentals** – Docker, CI/CD, pipelines
-- 🔐 **System Security** – VPNs, Proxychains, Tails OS architecture
-- 🧱 **Cloud Tools** – Linux networking, deployment pipelines
-- 🧠 **Advanced Java + OOP** – JavaFX, multithreading, JDBC
+### 🔐 **Open Source Contributor @ OWASP ZAP**
+* **Merged PR #7013:** Contributed to the **Zed Attack Proxy (ZAP)** extensions.
+* Implemented functional unit tests for scanner rules (`ascanrulesBeta`) to improve regression safety.
+* Collaborated within a strict CI/CD and code review environment.
 
----
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Gmail-abdullahzulfiqar2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahzulfiqar2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AbdullahZulfiqar2005-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbdullahZulfiqar2005)
+### 💼 **Freelance Software Developer**
+* **Android Security Research:** Analyzed compiled Android applications (Smali/Bytecode) to identify security checks. Implemented logic patches and re-signed binaries for custom client requirements.
+* **Fintech Integration:** Developed a Python-based backend module for **FBR (Federal Board of Revenue)** digital invoicing. Automated tax calculations and PDF generation integrated with MySQL.
 
 ---
 
-<p align="center">
-  "Work in silence. Let your projects speak."
-</p>
+## 💻 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Global Chat App** | A real-time chat platform supporting live messaging, JWT authentication, and room management. | Node.js, Socket.IO, React, MongoDB |
+| **Bus Tracking System** | University transport tracking app with live GPS updates. Reduced battery usage by 30% via scheduled syncing. | Flutter, FastAPI, Firebase |
+| **Data Analysis Web App** | A data pipeline tool for ingesting CSV/Excel files and performing server-side statistical analysis. | Django, Python, Pandas |
+| **Arch Hyprland Dots** | My personal configuration for a highly optimized, keyboard-centric Arch Linux workflow. | Bash, Hyprland, Wayland |
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/abdullah-zulfiqar-7a4240287)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahzulfiqar580@email.com)
